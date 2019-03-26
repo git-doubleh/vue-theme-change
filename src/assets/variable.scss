@@ -1,0 +1,23 @@
+
+%theme1-bg {
+  background-color: red;
+};
+%theme1-bg-sec {
+  background-color: yellow;
+}
+%theme1-fc-main {
+  color: #000;
+}
+$theme1-border: #000;
+
+// 主题二
+%theme2-bg {
+  background-color: black;
+};
+%theme2-bg-sec {
+  background-color: pink;
+}
+%theme2-fc-main {
+  color: #fff;
+}
+$theme2-border: #fff;
